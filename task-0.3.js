@@ -8,4 +8,4 @@ function hello(str){
 }
 
 hello('Priscilla');
-
+hello(23);
