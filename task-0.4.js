@@ -12,3 +12,5 @@ function evenOrOdd(int){
     
 
 evenOrOdd(3);
+evenOrOdd(22);
+evenOrOdd(4.6);
