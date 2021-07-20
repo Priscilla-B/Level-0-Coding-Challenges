@@ -10,6 +10,5 @@ function evenOrOdd(int){
     };
 };
     
-    
 
 evenOrOdd(3);
