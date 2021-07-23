@@ -15,8 +15,8 @@ function vowels(string) {
     };
 
     vowelsInString = Array.from(vowelsInString).join(', '); // convert to a comma separated array representation"
-    console.log('Vowels: ', vowelsInString) 
+    console.log('Vowels: ', vowelsInString);
    
 }
 
-vowels('Enthusiastic')
+vowels('Enthusiastic');
