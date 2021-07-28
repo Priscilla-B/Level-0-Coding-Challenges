@@ -5,10 +5,10 @@ function toHoursAndMinutes(num){
     var minutes =  num % 60;
 
     if (hours == 1){
-        var hoursString = ' hour ';
+        var hoursString = ' hour, ';
     }
     else {
-        hoursString = ' hours ';
+        hoursString = ' hours, ';
     };
     if (minutes == 1){
         var minutesString = ' minute.';
